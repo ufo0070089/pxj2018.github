@@ -1,1 +1,108 @@
-theme: jekyll-theme-time-machine
+title: 姜戈的个人网站
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+#baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings add your name
+author: 姜戈的个人网站
+
+author-pic: leach-face.jpg
+about-author: 专注自我成长，开源爱好者
+
+#修改成你自己的
+# Contact links
+website: pxj2018.top# Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+#twitter: @PXiongjiang# Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+#修改成你自己的
+email: 250205097@qq.com
+phone: 00000000
+github: https://github.com/ufo0070089
+jianshu: https://www.jianshu.com/u/85c6c3dcbb4f
+#juejin: 
+#csdn: 
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus修改成你自己的
+discus_identifier: 姜戈
+# Add your discus identifier
+
+#intensedebate修改成你自己的
+intensedebate_identifier: 8e8b15f7a54b8c4ea742e455390b09ae
+
+# Tracker Google Analytics修改成你自己的
+#google-analysis: UA-113644888-1
+#baidu-analysis: 56385150d223d3a72bebe8a0d4a94e19
+
+#youyan
+#youyan-id: 2157296
+
+# Paginate
+paginate: 18
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+
+links:
+  - name:         Home
+    url:          /
+    external:     false
+  - name:         About
+    url:          /about
+    external:     false
+
+#添加分类步骤：
+#1：在_config.yml links1及blog_中添加对应内容
+#2：在_includes里面headr.html中添加对应内容
+#3：在根目录blog文件中创建对应内容
+
+
+links1:
+  - name:         所有
+    url:          /
+    type:         recent
+    external:     false
+  - name:         随笔
+    url:          /blog/essays
+    type:         essays
+    external:     false
+  - name:         Jekyll
+    url:          /blog/jekyll
+    type:         jekyll
+    external:     false
+  - name:         IT互联网
+    url:          /blog/IT
+    type:         IT
+    external:     false
+  - name:         电影世界
+    url:          /blog/movie
+    type:         movie
+    external:     false
+blog_1:    recent
+blog_2:    essays
+blog_3:    jekyll
+blog_4:    IT
+blog_5:    movie
+
+
+
+#permalink: /:year/:month/:day/:title.html
