@@ -24,7 +24,7 @@ pinterest: # Add your Pinterest handle
 
 #修改成你自己的
 email: 250205097@qq.com
-phone: 00000000
+phone: 13876008184
 github: https://github.com/ufo0070089
 jianshu: https://www.jianshu.com/u/85c6c3dcbb4f
 #juejin: 
@@ -97,11 +97,16 @@ links1:
     url:          /blog/movie
     type:         movie
     external:     false
+  - name:         游记
+    url:          /blog/travel
+    type:         travel
+    external:     false
 blog_1:    recent
 blog_2:    essays
 blog_3:    jekyll
 blog_4:    IT
 blog_5:    movie
+blog_6:    travel
 
 
 
