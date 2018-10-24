@@ -59,6 +59,7 @@ author: # Add name author (optional)
 
 下面的图没看懂，抽象的神经元输入输出。
 
+![](https://upload-images.jianshu.io/upload_images/13813710-fb436dbf87fb88f4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 于是将 n 个神经元通过像一张神经网络一样连接在一起。n 这个数字可以很大很大，所有的神经元可以分成很多列，每一列很多个排列起来。
 
