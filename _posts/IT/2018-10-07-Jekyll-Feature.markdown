@@ -3,7 +3,7 @@ layout: post
 title:  Jekyll+Github搭建个人静态博客网站
 date:   2018-10-11
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-3.jpg # Add image post (optional)
+img: post-4.jpg # Add image post (optional)
 tags: [Jekyll]
 author: 姜戈# Add name author (optional)
 ---
