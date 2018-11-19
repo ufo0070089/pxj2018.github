@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-6.jpg # Add image post (optional)
 tags: [Reading]
 author: 姜戈# Add name author (optional)
+essays: true
 ---
 每天对着屏幕6到7小时？这会从根本上改变你的大脑
 

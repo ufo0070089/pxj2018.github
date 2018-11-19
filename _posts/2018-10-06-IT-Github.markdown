@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-1.jpg # Add image post (optional)
 tags: [IT互联网]
 author: 姜戈 # Add name author (optional)
+IT: true
 ---
 如果有这么一家任性的互联网公司，没有所谓职业经理人，组织架构几乎是平的，所谓的管理者只是充当其中一个协调人员，人们都在做自己喜欢的事情，并且创造价值，而其他的事情，就顺其自然让他发生。这里能节省多少官僚主义带来的浪费？这样的公司得跑得有多快？得有多少无谓的冲突消解于无形？能形成多惊人的创新文化啊？这是理想中的乌托邦吗？
 

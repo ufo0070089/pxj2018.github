@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-5.jpg # Add image post (optional)
 tags: [Jekyll]
 author: 姜戈# Add name author (optional)
+jekyll: true
 ---
 因为常写博客和网站搭建，经常用到Jekyll和Markdown，备忘下常用语法。
 # Markdown常用语法

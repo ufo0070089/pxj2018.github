@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-3.jpg # Add image post (optional)
 tags: [IT热门知识]
 author: # Add name author (optional)
+IT: true
 ---
 前面两篇文章，姜戈已经介绍了云计算和大数据。两句话总结就是，云计算就像水电可灵活调度，大数据就是大家来一起算数据后总结得出一些数据智慧。今天就由姜戈给你讲讲人工智能。
 

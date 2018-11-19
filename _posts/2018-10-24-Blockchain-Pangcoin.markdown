@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post13.jpg # Add image post (optional)
 tags: [Blockchain]
 author: 姜戈# Add name author (optional)
+essays: true
 ---
 区块链学习过程中，用Python3代码来做一个最小的区块链搭建。我称它为pangcoin。
 

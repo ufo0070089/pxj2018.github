@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-4.jpg # Add image post (optional)
 tags: [Jekyll]
 author: 姜戈# Add name author (optional)
+jekyll: true
 ---
 国庆期间，用Jekyll+GIthub页面搭建了自己的个人网站，现在记录下搭建的网站特性，后续将详细记录搭建过程。
 

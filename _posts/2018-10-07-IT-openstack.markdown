@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  连猴子都看得懂的IT热门知识-云计算（一）
-date:   2018-10-08
+date:   2018-10-07
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
-tags: [IT互联网]
+tags: [IT热门知识]
 author: 姜戈# Add name author (optional)
+IT: true
 ---
 概述
 
